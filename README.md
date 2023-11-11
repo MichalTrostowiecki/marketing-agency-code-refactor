@@ -1,5 +1,6 @@
 # marketing-agency-code-refactor
 
+
 ## Description
 
 Week 1 Bootcamp Challenge
@@ -13,6 +14,8 @@ During this process, I learned the importance and role of semantic HTML, how to 
 N/A
 
 ## Usage
+Link:
+https://michaltrostowiecki.github.io/marketing-agency-code-refactor/
 
   ![Screenshot](https://github.com/MichalTrostowiecki/marketing-agency-code-refactor/assets/104785420/8804f816-c23d-4554-bfc0-1145f82f77fe)
 
