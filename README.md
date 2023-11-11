@@ -14,7 +14,7 @@ N/A
 
 ## Usage
   
-    ![Example Screenshot](https://michaltrostowiecki.github.io/marketing-agency-code-refactor/Assets/images/Screenshot.png)
+    ![Example Screenshot](Assets/images/Screenshot.png)
     
 ## Credits 
 
