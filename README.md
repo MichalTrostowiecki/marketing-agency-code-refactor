@@ -14,7 +14,7 @@ N/A
 
 ## Usage
   
-    ![Example Screenshot](Assets/images/Screenshot.png)
+    ![Example Screenshot](/Assets/images/Screenshot.png)
     
 ## Credits 
 
