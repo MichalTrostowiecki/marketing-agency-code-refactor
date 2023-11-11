@@ -13,8 +13,8 @@ During this process, I learned the importance and role of semantic HTML, how to 
 N/A
 
 ## Usage
-  
-    ![Example Screenshot](/Assets/images/Screenshot.png)
+
+  ![Screenshot](https://github.com/MichalTrostowiecki/marketing-agency-code-refactor/assets/104785420/fac9c724-a0f0-49f2-a250-9a70eb11f600)
     
 ## Credits 
 
