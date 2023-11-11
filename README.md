@@ -14,7 +14,8 @@ N/A
 
 ## Usage
 
-  ![Screenshot](https://github.com/MichalTrostowiecki/marketing-agency-code-refactor/assets/104785420/fac9c724-a0f0-49f2-a250-9a70eb11f600)
+  ![Screenshot](https://github.com/MichalTrostowiecki/marketing-agency-code-refactor/assets/104785420/8804f816-c23d-4554-bfc0-1145f82f77fe)
+
     
 ## Credits 
 
